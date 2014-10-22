@@ -23,7 +23,7 @@ Il s'agit d'un disque dur externe un peu spécial.
 Fabriqué par la société Zalman, ce boîtier permet de présenter une image iso
 pour le démarrage d'un ordinateur. Ce qui économise les galettes gravées.
 
-=== Points forts ===
+### Points forts
 
 - USB 2+3;
 - écran de contrôle sur le disque;
@@ -40,12 +40,12 @@ pour le démarrage d'un ordinateur. Ce qui économise les galettes gravées.
 	- Windows 2000/XP/Vista/8;
 - logiciel planification de sauvegarde fourni.
 
-=== Points faibles ===
+### Points faibles
 
 - La partition contenant les images ISO **doit** être en NTFS.
 
 
-=== Liens ===
+### Liens
 
 - http://zalman.com/global/product/Product_Read.php?Idx=674
 	- C'est celui que j'ai.
