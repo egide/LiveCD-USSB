@@ -12,7 +12,7 @@ explicitement autorisé à le faire.
 
 Liens
 -----
-* https://tails.boum.org/index.fr.html
-* http://fr.wikipedia.org/wiki/Tails_%28syst%C3%A8me_d%27exploitation%29
+* [Site officiel](https://tails.boum.org/index.fr.html)
+* [Page consacrée sur wikipédia](http://fr.wikipedia.org/wiki/Tails_%28syst%C3%A8me_d%27exploitation%29)
 
 
