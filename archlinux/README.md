@@ -7,6 +7,11 @@ Image pour l'installation d'ArchLinux sur une nouvelle machine.
 Historique
 ==========
 
+2014.10.30
+----------
+*Nom sur le zalman* : 002.iso
+*Nom de l'image* : archlinux-2014.10.01-dual.iso
+*Téléchargment* : https://www.archlinux.org/download/
 
 
 Liens
