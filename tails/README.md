@@ -10,6 +10,15 @@ live USB, et ne pas laisser de trace numérique sur la machine à moins qu'il so
 explicitement autorisé à le faire.
 
 
+Historique
+----------
+*Nom sur le zalman* : 001.iso
+*Nom de l'image* : tails-i386-1.1.2.iso
+*Téléchargment* : https://tails.boum.org/torrents/files/tails-i386-1.2.torrent
+*Fichier de contrôle* : https://tails.boum.org/torrents/files/tails-i386-1.2.torrent.sig
+
+
+
 Liens
 -----
 * [Site officiel](https://tails.boum.org/index.fr.html)
