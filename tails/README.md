@@ -11,6 +11,9 @@ explicitement autorisé à le faire.
 
 
 Historique
+==========
+
+2014.10.30
 ----------
 *Nom sur le zalman* : 001.iso
 *Nom de l'image* : tails-i386-1.1.2.iso
@@ -20,7 +23,7 @@ Historique
 
 
 Liens
------
+=====
 * [Site officiel](https://tails.boum.org/index.fr.html)
 * [Page consacrée sur wikipédia](http://fr.wikipedia.org/wiki/Tails_%28syst%C3%A8me_d%27exploitation%29)
 
